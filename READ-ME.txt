@@ -1,0 +1,2 @@
+This is a simple recreation of a website for a course project.
+Nothing special here.

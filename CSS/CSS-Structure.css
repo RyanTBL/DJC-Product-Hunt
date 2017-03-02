@@ -1,3 +1,9 @@
+/*************************
+STRUCTURING & TAG DEFAULTS
+*************************/
+
+/*PAGE STRUCTURING*/
+
 html, body {
   margin: 0px;
   padding: 0px;
@@ -23,18 +29,4 @@ footer {
   background: red;
 }
 
-/*HEADER STRUCTURING*/
-
-#main-logo {
-  height: 2%;
-  width: 2%;
-  margin: 2%;
-}
-
-/*NAV STRUCTURE*/
-
-ul li {
-  display: inline-block;
-}
-
-/*MAIN CONTENT STRUCTURE*/
+/*TAG DEFAULTS*/
